@@ -16,6 +16,6 @@
   "devDependencies": {},
   "dependencies": {
     "cover-phone-num": "^1.0.1",
-    "rollup": "^2.10.0"
+    "rollup": "^2.79.2"
   }
 }
